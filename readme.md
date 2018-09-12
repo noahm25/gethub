@@ -1,4 +1,6 @@
-# Demo Readme
-add line
+# Preject Info
+Name: Noah Martineau Raymundo
 
-Another one
+Id: noahm25@learn.cssd.ab.ca
+
+Date complete:sept.26.2018
