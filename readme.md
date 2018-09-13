@@ -1,4 +1,4 @@
-# Preject Info
+# Project Info
 Name: Noah Martineau Raymundo
 
 Id: noahm25@learn.cssd.ab.ca
